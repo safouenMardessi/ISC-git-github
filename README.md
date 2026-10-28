@@ -1,12 +1,8 @@
-# ISC — Intelligent Intelligent Systems Club
+# ISC — Intelligent Systems Club
 
 Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 ## Members
 
-- Safouene Mardessi
+- Safouen Mardessi
 - ???
-
-## Favorite Programming Language
-
-Python — because it is easy to start with!
